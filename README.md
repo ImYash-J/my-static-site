@@ -9,6 +9,7 @@ This is a simple static website created using HTML, CSS, and JavaScript. It is h
 ## 📁 Project Structure
 
 my-static-site/
+
 ├── index.html # Main HTML file
 
 ├── style.css # Stylesheet for the site
